@@ -1,0 +1,13 @@
+### YamlMime:Sample
+sample:
+- name: Java Maven Sample3
+  description: That sample that shows how to use Java Maven
+  generateZip: false
+  author: ant
+  languages:
+  - java
+  technologies:
+  - advanced-threat-analytics
+  ci_config:
+  - path: /DockerMaven
+    template: java_maven
